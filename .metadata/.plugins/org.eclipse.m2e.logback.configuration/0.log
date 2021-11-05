@@ -1,0 +1,14 @@
+2021-11-05 12:48:40,860 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-11-05 12:52:32,178 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\giridhar.m\Desktop\projectdemo2\demoproj\pom.xml
+2021-11-05 12:52:34,877 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.g:demoproj:0.0.1-SNAPSHOT @ C:\Users\giridhar.m\Desktop\projectdemo2\demoproj\pom.xml.
+2021-11-05 12:52:35,643 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoproj/src/main/java
+2021-11-05 12:52:35,653 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoproj/src/test/java
+2021-11-05 12:52:37,250 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2021-11-05 12:52:38,305 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 12:52:38,306 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\giridhar.m\Desktop\projectdemo2\demoproj\src\main\resources
+2021-11-05 12:52:38,309 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 12:52:38,309 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\giridhar.m\Desktop\projectdemo2\demoproj\src\test\resources
+2021-11-05 12:52:59,442 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 12:52:59,443 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\giridhar.m\Desktop\projectdemo2\demoproj\src\main\resources
+2021-11-05 12:52:59,446 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 12:52:59,446 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\giridhar.m\Desktop\projectdemo2\demoproj\src\test\resources
