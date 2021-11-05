@@ -12,3 +12,7 @@
 2021-11-05 12:52:59,443 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\giridhar.m\Desktop\projectdemo2\demoproj\src\main\resources
 2021-11-05 12:52:59,446 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-11-05 12:52:59,446 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\giridhar.m\Desktop\projectdemo2\demoproj\src\test\resources
+2021-11-05 13:01:00,679 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:01:00,679 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\giridhar.m\Desktop\projectdemo2\demoproj\src\main\resources
+2021-11-05 13:01:00,681 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 13:01:00,682 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\giridhar.m\Desktop\projectdemo2\demoproj\src\test\resources
